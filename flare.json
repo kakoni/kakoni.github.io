@@ -1,0 +1,165 @@
+{
+  "name": "Open Data",
+  "children": [
+    {
+      "name": "SparkUP",
+      "children": [
+        {"name": "Potkuri" },
+        {"name": "Creve"},
+        {
+          "name": "Boost",
+          "children": [
+            {"name": "Leo Kadieff"},
+            {"name": "Erika Halonen"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yrittäjä yhdistykset"
+    },
+    {
+      "name": "AMK",
+      "children": [
+        {"name": "Timo Linnossuo"},
+        {"name": "Olli Ojala"},
+        {"name": "Harri Jalonen"}
+      ]
+    },
+    {
+      "name": "Opiskelija Yhdistykset"
+    },
+    {
+      "name": "Korkeakoulut",
+      "children": [
+        {
+          "name": "Kauppakorkeakoulu",
+          "children": [
+            {"name": "Ville Santala"},
+            {"name": "Helka Kalliomäki"},
+            {"name": "Laura Holmen"}
+          ]
+        },
+        {
+          "name": "Yliopisto",
+          "children": [
+            {"name": "Timo Vasankari"},
+            {"name": "Antero Järvi"},
+            {"name": "Tuomas Mäkilä"},
+            {"name": "Juuso Suomi"}
+          ]
+        },
+        {
+          "name": "Abo Akademi",
+          "children": [
+            {"name": "Pekka Tenhonen"},
+            {"name": "Olli Ojala"},
+            {"name": "Samuel Rönnqvist"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turku SciencePark",
+      "children": [
+        {"name": "Marko Puhtila"},
+        {"name": "Kalle Luhtinen"},
+        {"name": "Sonja Nylander"}
+      ]
+    },
+    {
+      "name": "Lähikaupungit",
+      "children": [
+        {
+          "name": "Salo",
+          "children": [
+            {"name": "Anita Silanterä"}
+          ]
+        },
+        {
+          "name": "Pori",
+          "children": [
+            {"name": "Petri Linna"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turun Kaupunki",
+      "children": [
+        {"name": "Tarja Vuorinen"},
+        {
+          "name": "Vapaa-aika",
+          "children": [
+            {"name": "Kristiina Karppi"}
+          ]
+        },
+        {
+          "name": "Paikkatieto",
+          "children": [
+            {"name": "Katariina Hilke"}
+          ]
+        },
+        {
+          "name": "Sote",
+          "children": [
+            {"name": "Mikko Pakarinen"}
+          ]
+        },
+        {
+          "name": "Ympäristö",
+          "children": [
+            {"name": "Jari Paasikivi"}
+          ]
+        },
+        {
+          "name": "Museo",
+          "children": [
+            {"name": "Paula Saarento"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lounaispaikka",
+      "children": [
+        {"name": "Juha Pulmuranta"},
+        {"name": "Sanna Jokela"},
+        {"name": "Esa Halsti"}
+      ]
+    },
+    {
+      "name": "Kauppakameri",
+      "children": [
+        {"name": "ICT Valiokunta"}
+      ]
+    },
+    {
+      "name": "TSEK",
+      "children": [
+        {"name": "Aino Ukkola"}
+      ]
+    },
+    {
+      "name": "Media",
+      "children": [
+        {"name": "Tomi Kangasniemi"}
+      ]
+    },
+    {
+      "name": "Tekes"
+    },
+    {
+      "name": "ELY"
+    },
+    {
+      "name": "Yritykset",
+      "children": [
+        {"name": "Analystica"},
+        {"name": "Avoltus"},
+        {"name": "Bean Solutions"},
+        {"name": "Cerion"}
+      ]
+    }
+  ]
+}
